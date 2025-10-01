@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_test_application_1/features/profile/widgets/facebook.dart';
+import 'package:flutter_test_application_1/features/profile/widgets/login.dart';
 
 class Rimon extends StatelessWidget {
   const Rimon({super.key});
@@ -12,7 +12,7 @@ class Rimon extends StatelessWidget {
       body: Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
-          children: [Facebook()],
+          children: [Login()],
         ),
       ),
     );
