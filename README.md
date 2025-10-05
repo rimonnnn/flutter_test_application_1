@@ -15,7 +15,6 @@ nshots/login.png) | ![SignUp](screens<img width="289" height="615" alt="sign_up 
 hots/signup.png) | ![Home](screens<img width="289" height="615" alt="home png" src="https://github.com/user-attachments/assets/9160bdd5-74a7-4354-8d88-374a8a37513e" />
 hots/home.png) |
 
-*(replace screenshots with your actual app images in a `screenshots` folder)*
 
 ---
 
